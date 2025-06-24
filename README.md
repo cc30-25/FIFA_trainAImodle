@@ -35,3 +35,5 @@ python src/infer.py
 
 ## Notes
 The _nf files are an attempt to train with k-fold, which lead to better results.
+```
+Refer to the requirements.txt for all the setup requirements
